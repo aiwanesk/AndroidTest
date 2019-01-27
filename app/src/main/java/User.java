@@ -1,3 +1,5 @@
+package default;
+
 public class User {
     private String mFirstName;
 
